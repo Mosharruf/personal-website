@@ -1,0 +1,39 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Portfolio'
+
+theme: PaperMod
+
+menu:
+  main:
+     - name: "Home"
+       url: "/"
+       weight: 1
+
+     - name: "Academic Information"
+       url: "/academic-information/"
+       weight: 2
+
+     - name: "Projects"
+       url: "/projects/"
+       weight: 2       
+
+params:
+  env: production
+  defaultTheme: dark
+
+  profileMode:
+    enabled: true
+    title: "Mosharuf Hossen"
+    subtitle: "CSE Graduate | Aspiring Researcher | Technology Enthusiast"
+    imageUrl: "/images/profile.jpeg"
+    imageTitle: "My Profile Picture"
+    imageWidth: 180
+    imageHeight: 180
+
+  socialIcons:
+      - name: github
+        url: "https://github.com/Mosharruf"
+
+      - name: email
+        url: "mailto:mosharrufhossen46@gmail.com"

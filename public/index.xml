@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home Page on Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home Page on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Oct 2026 22:26:58 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Information</title>
+      <link>http://localhost:1313/academic-information/</link>
+      <pubDate>Thu, 08 Oct 2026 22:26:58 +0600</pubDate>
+      <guid>http://localhost:1313/academic-information/</guid>
+      <description>&lt;p&gt;Hello, this is Mosharruf Hossen and this is my personal webpage, where all my academic information will be uploaded. I have completed my bachelors from Daffodil International University in Computer Science and Engineering with a CGPA of 3.42 out of 4.&lt;/p&gt;
+&lt;p&gt;Currently i&amp;rsquo;m doing my Master&amp;rsquo;s at Daffodil International university in Computer Science and Engineering Major in Data Science&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 08 Oct 2026 22:26:58 +0600</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;The website is under development phase, very soon will be uploaded&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
